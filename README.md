@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... email
 - 😄 Pronouns: ... he/him
  
+-->
 
+This is the first time I've had to code anything 🥀
